@@ -93,7 +93,7 @@
     "minimatch": "^3.0.4",
     "mime": "^1.6.0",
     "ms": "^2.0.0",
-    "minimist": "^0.0.8",
+    "minimist": "^1.2.2",
     "negotiator": "^0.6.2",
     "node-environment-flags": "^1.0.5",
     "object-inspect": "^1.7.0",
