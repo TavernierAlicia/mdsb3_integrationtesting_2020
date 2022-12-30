@@ -52,7 +52,7 @@
     "extend": "^3.0.2",
     "finalhandler": "^1.1.2",
     "find-up": "^3.0.0",
-    "flat": "^4.1.0",
+    "flat": "^5.0.1",
     "etag": "^1.8.1",
     "form-data": "^2.5.1",
     "forwarded": "^0.1.2",
