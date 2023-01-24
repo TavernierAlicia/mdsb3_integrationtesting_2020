@@ -30,7 +30,7 @@
     "cookie": "^0.4.0",
     "cookie-signature": "^1.0.6",
     "core-util-is": "^1.0.2",
-    "cookiejar": "^2.1.2",
+    "cookiejar": "^2.1.4",
     "debug": "^2.6.9",
     "assertion-error": "^1.1.0",
     "decamelize": "^1.2.0",
